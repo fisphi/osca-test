@@ -1,0 +1,67 @@
+{
+  "id" : "https://fisphi.github.io/osca-test/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in fisphi/osca-test project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 3138,
+    "id" : "https://fisphi.github.io/osca-test/images/W18890105101/canvas/",
+    "label" : {
+      "none" : [ "W18890105101" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://fisphi.github.io/osca-test/images/W18890105101/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://fisphi.github.io/osca-test/images/W18890105101/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 99,
+              "height" : 160
+            }, {
+              "width" : 197,
+              "height" : 319
+            }, {
+              "width" : 393,
+              "height" : 637
+            }, {
+              "width" : 785,
+              "height" : 1274
+            }, {
+              "width" : 1569,
+              "height" : 2547
+            }, {
+              "width" : 3138,
+              "height" : 5093
+            } ],
+            "profile" : "level0",
+            "width" : 3138,
+            "id" : "https://fisphi.github.io/osca-test/images/W18890105101",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 5093
+          } ],
+          "format" : "image/jpeg",
+          "width" : 3138,
+          "id" : "https://fisphi.github.io/osca-test/images/W18890105101/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 5093
+        },
+        "target" : "https://fisphi.github.io/osca-test/images/W18890105101/canvas/"
+      } ]
+    } ],
+    "height" : 5093
+  } ]
+}
