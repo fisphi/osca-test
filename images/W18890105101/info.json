@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 99,
+    "height" : 160
+  }, {
+    "width" : 197,
+    "height" : 319
+  }, {
+    "width" : 393,
+    "height" : 637
+  }, {
+    "width" : 785,
+    "height" : 1274
+  }, {
+    "width" : 1569,
+    "height" : 2547
+  }, {
+    "width" : 3138,
+    "height" : 5093
+  } ],
+  "profile" : "level0",
+  "width" : 3138,
+  "id" : "https://fisphi.github.io/osca-test/images/W18890105101",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 5093
+}
